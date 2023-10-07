@@ -64,5 +64,5 @@ function call(e,current)
       }
       first.src=just.src
       b.src=just.src
-    }, 350);
+    }, 300);
 }
